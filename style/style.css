@@ -48,6 +48,12 @@ body {
     margin-left: 25px;
 }
 
+/* Style for links within the header's main title */
+.header h1 .header-link {
+    color: inherit;
+    text-decoration: none; 
+}
+
 /* Anchor Link Styles */
 a {
     color: #ffffff;
